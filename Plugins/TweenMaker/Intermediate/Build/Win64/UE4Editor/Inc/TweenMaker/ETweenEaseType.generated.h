@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define TWEENMAKER_ETweenEaseType_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_ETweenEaseType_h
+#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_ETweenEaseType_h
 
 
 #define FOREACH_ENUM_ETWEENEASETYPE(op) \

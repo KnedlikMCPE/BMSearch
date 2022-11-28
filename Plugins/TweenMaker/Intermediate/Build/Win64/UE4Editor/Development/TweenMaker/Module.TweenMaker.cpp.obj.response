@@ -29,10 +29,10 @@
 /wd4244
 /wd4838
 /I .
-/I F:\Brewmaster\GenProj\Plugins\TweenMaker\Source\TweenMaker\Private
-/I F:\Brewmaster\GenProj\Plugins\TweenMaker\Intermediate\Build\Win64\UE4Editor\Inc\TweenMaker
-/I F:\Brewmaster\GenProj\Plugins\TweenMaker\Source
-/I F:\Brewmaster\GenProj\Plugins\TweenMaker\Source\TweenMaker\Public
+/I F:\BMSearch\Plugins\TweenMaker\Source\TweenMaker\Private
+/I F:\BMSearch\Plugins\TweenMaker\Intermediate\Build\Win64\UE4Editor\Inc\TweenMaker
+/I F:\BMSearch\Plugins\TweenMaker\Source
+/I F:\BMSearch\Plugins\TweenMaker\Source\TweenMaker\Public
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"F:\Brewmaster\GenProj\Intermediate\Build\Win64\BrewmasterMainEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"F:\Brewmaster\GenProj\Intermediate\Build\Win64\BrewmasterMainEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"F:\Brewmaster\GenProj\Intermediate\Build\Win64\BrewmasterMainEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"F:\Brewmaster\GenProj\Plugins\TweenMaker\Intermediate\Build\Win64\UE4Editor\Development\TweenMaker\Module.TweenMaker.cpp"
-/FI"F:\Brewmaster\GenProj\Plugins\TweenMaker\Intermediate\Build\Win64\UE4Editor\Development\TweenMaker\Definitions.TweenMaker.h"
-/Fo"F:\Brewmaster\GenProj\Plugins\TweenMaker\Intermediate\Build\Win64\UE4Editor\Development\TweenMaker\Module.TweenMaker.cpp.obj"
+/FI"F:\BMSearch\Intermediate\Build\Win64\BrewmasterMainEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"F:\BMSearch\Intermediate\Build\Win64\BrewmasterMainEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"F:\BMSearch\Intermediate\Build\Win64\BrewmasterMainEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"F:\BMSearch\Plugins\TweenMaker\Intermediate\Build\Win64\UE4Editor\Development\TweenMaker\Module.TweenMaker.cpp"
+/FI"F:\BMSearch\Plugins\TweenMaker\Intermediate\Build\Win64\UE4Editor\Development\TweenMaker\Definitions.TweenMaker.h"
+/Fo"F:\BMSearch\Plugins\TweenMaker\Intermediate\Build\Win64\UE4Editor\Development\TweenMaker\Module.TweenMaker.cpp.obj"
 /TP
 /GR-
 /W4

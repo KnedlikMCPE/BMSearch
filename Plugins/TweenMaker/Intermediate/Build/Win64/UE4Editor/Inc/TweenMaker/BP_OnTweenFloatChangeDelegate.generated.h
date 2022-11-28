@@ -14,7 +14,7 @@ class UTweenFloat;
 #endif
 #define TWEENMAKER_BP_OnTweenFloatChangeDelegate_generated_h
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenFloatChangeDelegate_h_7_DELEGATE \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenFloatChangeDelegate_h_7_DELEGATE \
 struct _Script_TweenMaker_eventBP_OnTweenFloatChange_Parms \
 { \
 	UTweenFloat* Tween; \
@@ -28,7 +28,7 @@ static inline void FBP_OnTweenFloatChange_DelegateWrapper(const FMulticastScript
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenFloatChangeDelegate_h
+#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenFloatChangeDelegate_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

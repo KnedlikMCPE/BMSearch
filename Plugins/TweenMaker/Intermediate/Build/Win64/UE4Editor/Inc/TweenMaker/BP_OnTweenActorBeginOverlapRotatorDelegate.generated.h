@@ -15,7 +15,7 @@ class AActor;
 #endif
 #define TWEENMAKER_BP_OnTweenActorBeginOverlapRotatorDelegate_generated_h
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorBeginOverlapRotatorDelegate_h_8_DELEGATE \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorBeginOverlapRotatorDelegate_h_8_DELEGATE \
 struct _Script_TweenMaker_eventBP_OnTweenActorBeginOverlapRotator_Parms \
 { \
 	UTweenRotator* Tween; \
@@ -33,7 +33,7 @@ static inline void FBP_OnTweenActorBeginOverlapRotator_DelegateWrapper(const FMu
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorBeginOverlapRotatorDelegate_h
+#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorBeginOverlapRotatorDelegate_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

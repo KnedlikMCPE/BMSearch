@@ -17,7 +17,7 @@ struct FHitResult;
 #endif
 #define TWEENMAKER_BP_OnTweenActorHitFloatDelegate_generated_h
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorHitFloatDelegate_h_10_DELEGATE \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorHitFloatDelegate_h_10_DELEGATE \
 struct _Script_TweenMaker_eventBP_OnTweenActorHitFloat_Parms \
 { \
 	UTweenFloat* Tween; \
@@ -39,7 +39,7 @@ static inline void FBP_OnTweenActorHitFloat_DelegateWrapper(const FMulticastScri
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorHitFloatDelegate_h
+#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorHitFloatDelegate_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -17,8 +17,8 @@ enum class ETweenLoopType : uint8;
 #endif
 #define TWEENMAKER_TweenContainer_generated_h
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_SPARSE_DATA
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_RPC_WRAPPERS \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_SPARSE_DATA
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execDeleteTweenContainer); \
 	DECLARE_FUNCTION(execDeleteTweensInContainerByObject); \
@@ -34,7 +34,7 @@ enum class ETweenLoopType : uint8;
 	DECLARE_FUNCTION(execTogglePauseTweenContainer);
 
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execDeleteTweenContainer); \
 	DECLARE_FUNCTION(execDeleteTweensInContainerByObject); \
@@ -50,7 +50,7 @@ enum class ETweenLoopType : uint8;
 	DECLARE_FUNCTION(execTogglePauseTweenContainer);
 
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_INCLASS_NO_PURE_DECLS \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUTweenContainer(); \
 	friend struct Z_Construct_UClass_UTweenContainer_Statics; \
@@ -59,7 +59,7 @@ public: \
 	DECLARE_SERIALIZER(UTweenContainer)
 
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_INCLASS \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesUTweenContainer(); \
 	friend struct Z_Construct_UClass_UTweenContainer_Statics; \
@@ -68,7 +68,7 @@ public: \
 	DECLARE_SERIALIZER(UTweenContainer)
 
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_STANDARD_CONSTRUCTORS \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UTweenContainer(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UTweenContainer) \
@@ -81,7 +81,7 @@ private: \
 public:
 
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_ENHANCED_CONSTRUCTORS \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UTweenContainer(UTweenContainer&&); \
@@ -92,31 +92,31 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UTweenContainer)
 
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_PRIVATE_PROPERTY_OFFSET \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__mSequences() { return STRUCT_OFFSET(UTweenContainer, mSequences); }
 
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_13_PROLOG
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_GENERATED_BODY_LEGACY \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_13_PROLOG
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_PRIVATE_PROPERTY_OFFSET \
-	GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_SPARSE_DATA \
-	GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_RPC_WRAPPERS \
-	GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_INCLASS \
-	GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_STANDARD_CONSTRUCTORS \
+	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_PRIVATE_PROPERTY_OFFSET \
+	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_SPARSE_DATA \
+	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_RPC_WRAPPERS \
+	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_INCLASS \
+	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_GENERATED_BODY \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_PRIVATE_PROPERTY_OFFSET \
-	GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_SPARSE_DATA \
-	GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_INCLASS_NO_PURE_DECLS \
-	GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_ENHANCED_CONSTRUCTORS \
+	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_PRIVATE_PROPERTY_OFFSET \
+	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_SPARSE_DATA \
+	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_INCLASS_NO_PURE_DECLS \
+	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -124,7 +124,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> TWEENMAKER_API UClass* StaticClass<class UTweenContainer>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h
+#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenContainer_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

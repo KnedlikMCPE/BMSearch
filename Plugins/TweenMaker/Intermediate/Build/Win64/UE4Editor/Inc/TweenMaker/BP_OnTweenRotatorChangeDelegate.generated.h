@@ -14,7 +14,7 @@ class UTweenRotator;
 #endif
 #define TWEENMAKER_BP_OnTweenRotatorChangeDelegate_generated_h
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenRotatorChangeDelegate_h_7_DELEGATE \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenRotatorChangeDelegate_h_7_DELEGATE \
 struct _Script_TweenMaker_eventBP_OnTweenRotatorChange_Parms \
 { \
 	UTweenRotator* Tween; \
@@ -28,7 +28,7 @@ static inline void FBP_OnTweenRotatorChange_DelegateWrapper(const FMulticastScri
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenRotatorChangeDelegate_h
+#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenRotatorChangeDelegate_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

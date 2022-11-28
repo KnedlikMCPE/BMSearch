@@ -14,7 +14,7 @@ class UBaseTween;
 #endif
 #define TWEENMAKER_TweenNameChangedDelegate_generated_h
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenNameChangedDelegate_h_7_DELEGATE \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenNameChangedDelegate_h_7_DELEGATE \
 struct _Script_TweenMaker_eventTweenNameChanged_Parms \
 { \
 	UBaseTween* pTween; \
@@ -32,7 +32,7 @@ static inline void FTweenNameChanged_DelegateWrapper(const FMulticastScriptDeleg
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_TweenNameChangedDelegate_h
+#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenNameChangedDelegate_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

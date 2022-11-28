@@ -14,7 +14,7 @@ class UTweenVector2D;
 #endif
 #define TWEENMAKER_BP_OnTweenVector2DChangeDelegate_generated_h
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenVector2DChangeDelegate_h_7_DELEGATE \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenVector2DChangeDelegate_h_7_DELEGATE \
 struct _Script_TweenMaker_eventBP_OnTweenVector2DChange_Parms \
 { \
 	UTweenVector2D* Tween; \
@@ -28,7 +28,7 @@ static inline void FBP_OnTweenVector2DChange_DelegateWrapper(const FMulticastScr
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenVector2DChangeDelegate_h
+#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenVector2DChangeDelegate_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

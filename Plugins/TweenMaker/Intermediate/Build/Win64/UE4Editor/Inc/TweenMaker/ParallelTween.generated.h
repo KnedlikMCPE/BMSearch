@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TWEENMAKER_ParallelTween_generated_h
 
-#define GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_ParallelTween_h_9_GENERATED_BODY \
+#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_ParallelTween_h_9_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FParallelTween_Statics; \
 	TWEENMAKER_API static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> TWEENMAKER_API UScriptStruct* StaticStruct<struct FParallelTween>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID GenProj_Plugins_TweenMaker_Source_TweenMaker_Public_ParallelTween_h
+#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_ParallelTween_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
