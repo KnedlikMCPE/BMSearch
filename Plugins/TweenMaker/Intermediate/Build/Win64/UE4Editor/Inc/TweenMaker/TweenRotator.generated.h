@@ -18,8 +18,8 @@ class UPrimitiveComponent;
 #endif
 #define TWEENMAKER_TweenRotator_generated_h
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_SPARSE_DATA
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_RPC_WRAPPERS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_SPARSE_DATA
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetCurrentValue); \
 	DECLARE_FUNCTION(execOnActorBeginOverlap); \
@@ -28,7 +28,7 @@ class UPrimitiveComponent;
 	DECLARE_FUNCTION(execOnPrimitiveComponentHit);
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetCurrentValue); \
 	DECLARE_FUNCTION(execOnActorBeginOverlap); \
@@ -37,7 +37,7 @@ class UPrimitiveComponent;
 	DECLARE_FUNCTION(execOnPrimitiveComponentHit);
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_INCLASS_NO_PURE_DECLS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUTweenRotator(); \
 	friend struct Z_Construct_UClass_UTweenRotator_Statics; \
@@ -46,7 +46,7 @@ public: \
 	DECLARE_SERIALIZER(UTweenRotator)
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_INCLASS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_INCLASS \
 private: \
 	static void StaticRegisterNativesUTweenRotator(); \
 	friend struct Z_Construct_UClass_UTweenRotator_Statics; \
@@ -55,7 +55,7 @@ public: \
 	DECLARE_SERIALIZER(UTweenRotator)
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_STANDARD_CONSTRUCTORS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UTweenRotator(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UTweenRotator) \
@@ -68,7 +68,7 @@ private: \
 public:
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_ENHANCED_CONSTRUCTORS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UTweenRotator(UTweenRotator&&); \
@@ -79,28 +79,28 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UTweenRotator)
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_PRIVATE_PROPERTY_OFFSET
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_17_PROLOG
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_GENERATED_BODY_LEGACY \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_PRIVATE_PROPERTY_OFFSET
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_17_PROLOG
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_PRIVATE_PROPERTY_OFFSET \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_SPARSE_DATA \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_RPC_WRAPPERS \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_INCLASS \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_STANDARD_CONSTRUCTORS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_PRIVATE_PROPERTY_OFFSET \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_SPARSE_DATA \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_RPC_WRAPPERS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_INCLASS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_GENERATED_BODY \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_PRIVATE_PROPERTY_OFFSET \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_SPARSE_DATA \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_INCLASS_NO_PURE_DECLS \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_ENHANCED_CONSTRUCTORS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_PRIVATE_PROPERTY_OFFSET \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_SPARSE_DATA \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_INCLASS_NO_PURE_DECLS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -108,7 +108,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> TWEENMAKER_API UClass* StaticClass<class UTweenRotator>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h
+#define CURRENT_FILE_ID SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenRotator_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

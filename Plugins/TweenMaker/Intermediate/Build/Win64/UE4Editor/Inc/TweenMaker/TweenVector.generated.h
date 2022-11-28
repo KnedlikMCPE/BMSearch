@@ -17,8 +17,8 @@ class UPrimitiveComponent;
 #endif
 #define TWEENMAKER_TweenVector_generated_h
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_SPARSE_DATA
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_RPC_WRAPPERS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_SPARSE_DATA
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetCurrentValue); \
 	DECLARE_FUNCTION(execOnActorBeginOverlap); \
@@ -27,7 +27,7 @@ class UPrimitiveComponent;
 	DECLARE_FUNCTION(execOnPrimitiveComponentHit);
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetCurrentValue); \
 	DECLARE_FUNCTION(execOnActorBeginOverlap); \
@@ -36,7 +36,7 @@ class UPrimitiveComponent;
 	DECLARE_FUNCTION(execOnPrimitiveComponentHit);
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_INCLASS_NO_PURE_DECLS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUTweenVector(); \
 	friend struct Z_Construct_UClass_UTweenVector_Statics; \
@@ -45,7 +45,7 @@ public: \
 	DECLARE_SERIALIZER(UTweenVector)
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_INCLASS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_INCLASS \
 private: \
 	static void StaticRegisterNativesUTweenVector(); \
 	friend struct Z_Construct_UClass_UTweenVector_Statics; \
@@ -54,7 +54,7 @@ public: \
 	DECLARE_SERIALIZER(UTweenVector)
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_STANDARD_CONSTRUCTORS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UTweenVector(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UTweenVector) \
@@ -67,7 +67,7 @@ private: \
 public:
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_ENHANCED_CONSTRUCTORS \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UTweenVector(UTweenVector&&); \
@@ -78,28 +78,28 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UTweenVector)
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_PRIVATE_PROPERTY_OFFSET
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_16_PROLOG
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_GENERATED_BODY_LEGACY \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_PRIVATE_PROPERTY_OFFSET
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_16_PROLOG
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_PRIVATE_PROPERTY_OFFSET \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_SPARSE_DATA \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_RPC_WRAPPERS \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_INCLASS \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_STANDARD_CONSTRUCTORS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_PRIVATE_PROPERTY_OFFSET \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_SPARSE_DATA \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_RPC_WRAPPERS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_INCLASS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_GENERATED_BODY \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_PRIVATE_PROPERTY_OFFSET \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_SPARSE_DATA \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_INCLASS_NO_PURE_DECLS \
-	BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_ENHANCED_CONSTRUCTORS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_PRIVATE_PROPERTY_OFFSET \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_SPARSE_DATA \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_INCLASS_NO_PURE_DECLS \
+	SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -107,7 +107,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> TWEENMAKER_API UClass* StaticClass<class UTweenVector>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h
+#define CURRENT_FILE_ID SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_TweenVector_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

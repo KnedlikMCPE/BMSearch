@@ -14,7 +14,7 @@ class UTweenContainer;
 #endif
 #define TWEENMAKER_BP_OnTweenContainerEndDelegate_generated_h
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenContainerEndDelegate_h_7_DELEGATE \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenContainerEndDelegate_h_7_DELEGATE \
 struct _Script_TweenMaker_eventBP_OnTweenContainerEnd_Parms \
 { \
 	UTweenContainer* TweenContainer; \
@@ -28,7 +28,7 @@ static inline void FBP_OnTweenContainerEnd_DelegateWrapper(const FMulticastScrip
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenContainerEndDelegate_h
+#define CURRENT_FILE_ID SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenContainerEndDelegate_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

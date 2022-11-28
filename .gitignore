@@ -149,3 +149,7 @@ obj/
 
 # Explcitly ignore Mac DS_Store files, regardless of where they are
 .DS_Store
+
+# Build files likely to be over 100MB
+*.exe
+*.pdb

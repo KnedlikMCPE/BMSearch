@@ -15,7 +15,7 @@ class AActor;
 #endif
 #define TWEENMAKER_BP_OnTweenActorBeginOverlapVectorDelegate_generated_h
 
-#define BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorBeginOverlapVectorDelegate_h_8_DELEGATE \
+#define SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorBeginOverlapVectorDelegate_h_8_DELEGATE \
 struct _Script_TweenMaker_eventBP_OnTweenActorBeginOverlapVector_Parms \
 { \
 	UTweenVector* Tween; \
@@ -33,7 +33,7 @@ static inline void FBP_OnTweenActorBeginOverlapVector_DelegateWrapper(const FMul
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorBeginOverlapVectorDelegate_h
+#define CURRENT_FILE_ID SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_BP_OnTweenActorBeginOverlapVectorDelegate_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

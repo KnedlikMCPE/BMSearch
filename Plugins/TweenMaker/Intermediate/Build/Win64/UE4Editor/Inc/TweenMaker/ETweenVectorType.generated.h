@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define TWEENMAKER_ETweenVectorType_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID BMSearch_Plugins_TweenMaker_Source_TweenMaker_Public_ETweenVectorType_h
+#define CURRENT_FILE_ID SearchInCupboards_Plugins_TweenMaker_Source_TweenMaker_Public_ETweenVectorType_h
 
 
 #define FOREACH_ENUM_ETWEENVECTORTYPE(op) \
